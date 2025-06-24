@@ -60,13 +60,8 @@ export default defineConfig(({ command }) => ({
         theme_color: '#009688',
         icons: [
           {
-            src: '/assets/favicon-32x32.png',
+            src: '/assets/favicon.png',
             sizes: '32x32',
-            type: 'image/png',
-          },
-          {
-            src: '/assets/favicon-16x16.png',
-            sizes: '16x16',
             type: 'image/png',
           },
           {
